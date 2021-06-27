@@ -1,5 +1,5 @@
 body{
-    background-color: #00bcd4;
+    background-color: #F2B705;
     padding: 0;
     margin: 0;
 
@@ -11,9 +11,12 @@ body{
     transform: translate(-50% , -50%);
 }
 .gameBox{
-    width: 50vh;
-    height: 30.9vh;
-    border: 3px solid black;
+    position:relative;
+    width: 1000px;
+    height: 618px;
+    border: 3px solid #DCEEF2;
+    border-radius: 10px;
+
 }
 .title{
     color: white;
